@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Licong Lin"
   avatar           : "liconglin_headshot.png"
-  bio              : ""
+  bio              : "Email: liconglin at berkeley dot edu"
   location         : "UC Berkeley"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            : "liconglin at berkeley dot edu"
+  email            : #"liconglin at berkeley dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
