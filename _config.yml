@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Licong Lin"
   avatar           : "liconglin_headshot.png"
-  bio              : "PhD student at UC Berkeley Statistics\\ Email: liconglin at berkeley dot edu"
+  bio              : "PhD student at UC Berkeley Statistics\n Email: liconglin at berkeley dot edu"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
