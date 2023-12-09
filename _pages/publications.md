@@ -34,7 +34,7 @@ Near-optimal multiple testing in Bayesian linear models with finite-sample FDR c
 # Publications
 
 **L. Lin**, M. Ying, S. Ghosh, K. Khamaru, and C. Zhang.
-Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation and Inference. **Accepted at NeurIPS (poster) **, 2023. [arXiv](https://arxiv.org/abs/2310.00532)
+Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation and Inference. **Accepted at NeurIPS (poster)**, 2023. [arXiv](https://arxiv.org/abs/2310.00532)
 
 
 **L. Lin**, E. Dobriban.
