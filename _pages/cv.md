@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV below or download it [here](https://licong-lin.github.io/files/liconglin_resume.pdf){:target="_blank"}.
+A full CV can be found [here](https://licong-lin.github.io/files/liconglin_resume.pdf){:target="_blank"}.
 
 <embed src="https://licong-lin.github.io/files/liconglin_resume.pdf" type="application/pdf" width="100%" />
