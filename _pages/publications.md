@@ -15,7 +15,7 @@ author_profile: true
 
 # Preprints
 
-M. Celentano, Z. Fan, **L. Lin^***, and S. Mei.
+M. Celentano, Z. Fan, **L. Lin***, and S. Mei.
 Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
 
 **L. Lin**, Y. Bai, S. Mei.
@@ -27,7 +27,7 @@ Plug-in Performative Optimization. Preprint, 2023+. [arXiv](https://arxiv.org/ab
 **L. Lin**, K. Khamaru, M. J. Wainwright.
 Semi-parametric inference based on adaptively collected data. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2303.02534)
 
-T. Ahn, **L. Lin^***, S. Mei.
+T. Ahn, **L. Lin***, S. Mei.
 Near-optimal multiple testing in Bayesian linear models with finite-sample FDR control. Preprint, 2022+. [arXiv](https://arxiv.org/abs/2211.02778)
 
 
