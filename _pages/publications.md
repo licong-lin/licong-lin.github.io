@@ -19,7 +19,7 @@ M. Celentano, Z. Fan, **L. Lin***, and S. Mei.
 Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
 
 **L. Lin**, Y. Bai, S. Mei.
-Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2310.08566)
+Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining. **International Conference on Learning Representations (ICLR)**, 2024. [arXiv](https://arxiv.org/abs/2310.08566)
 
 **L. Lin**, T. Zrnic. 
 Plug-in Performative Optimization. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2305.18728)
@@ -34,7 +34,7 @@ Near-optimal multiple testing in Bayesian linear models with finite-sample FDR c
 # Publications
 
 **L. Lin**, M. Ying, S. Ghosh, K. Khamaru, and C. Zhang.
-Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation and Inference. **Accepted at NeurIPS (poster)**, 2023. [arXiv](https://arxiv.org/abs/2310.00532)
+Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation and Inference. **Advances in Neural Information Processing Systems (NeurIPS)**, 2023. [arXiv](https://arxiv.org/abs/2310.00532)
 
 
 **L. Lin**, E. Dobriban.
