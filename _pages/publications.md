@@ -11,9 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-($^*$ denotes alphabetical ordering)
+($^*$ denotes alphabetical ordering or co-first author)
 
 # Preprints
+
+R. Zhang, **L. Lin***, Y. Bai, S. Mei
+Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning. Preprint, 2024+. [arXiv](https://arxiv.org/abs/2404.05868)
 
 M. Celentano, Z. Fan, **L. Lin***, and S. Mei.
 Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
@@ -26,6 +29,7 @@ Semi-parametric inference based on adaptively collected data. Preprint, 2023+. [
 
 T. Ahn, **L. Lin***, S. Mei.
 Near-optimal multiple testing in Bayesian linear models with finite-sample FDR control. Preprint, 2022+. [arXiv](https://arxiv.org/abs/2211.02778)
+
 
 
 # Publications
