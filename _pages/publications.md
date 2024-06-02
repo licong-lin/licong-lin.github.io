@@ -21,9 +21,6 @@ Negative Preference Optimization: From Catastrophic Collapse to Effective Unlear
 M. Celentano, Z. Fan, **L. Lin***, and S. Mei.
 Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
 
-**L. Lin**, T. Zrnic. 
-Plug-in Performative Optimization. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2305.18728)
-
 **L. Lin**, K. Khamaru, M. J. Wainwright.
 Semi-parametric inference based on adaptively collected data. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2303.02534)
 
@@ -33,6 +30,9 @@ Near-optimal multiple testing in Bayesian linear models with finite-sample FDR c
 
 
 # Publications
+
+**L. Lin**, T. Zrnic. 
+Plug-in Performative Optimization. **International Conference on Machine Learning (ICML)**, 2024. [arXiv](https://arxiv.org/abs/2305.18728)
 
 **L. Lin**, Y. Bai, S. Mei.
 Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining. **International Conference on Learning Representations (ICLR)**, 2024. [arXiv](https://arxiv.org/abs/2310.08566)
