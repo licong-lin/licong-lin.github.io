@@ -15,10 +15,10 @@ author_profile: true
 
 # Preprints
 
-L. Lin, J. Wu, S. M. Kakade, P. L. Bartlett, J. D. Lee
+L. Lin, J. Wu, S. M. Kakade, P. L. Bartlett, J. D. Lee.
 Scaling Laws in Linear Regression: Compute, Parameters, and Data. Preprint, 2024+. [arXiv](https://arxiv.org/abs/2406.08466)
 
-R. Zhang, **L. Lin***, Y. Bai, S. Mei
+R. Zhang, **L. Lin***, Y. Bai, S. Mei.
 Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning. Preprint, 2024+. [arXiv](https://arxiv.org/abs/2404.05868)
 
 M. Celentano, Z. Fan, **L. Lin***, and S. Mei.
