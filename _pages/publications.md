@@ -90,7 +90,7 @@ Transformers as Decision Makers: Provable In-Context Reinforcement Learning via 
 
 
 **Licong Lin**, Edgar Dobriban.
-What causes the test error? going beyond bias-variance via anova. **The Journal of Machine Learning Research**, 2021. [journal](https://www.jmlr.org/papers/v22/20-1211.html) [arXiv](https://arxiv.org/abs/2010.05170) 
+What Causes the Test Error? Going Beyond Bias-Variance via ANOVA. **The Journal of Machine Learning Research**, 2021. [journal](https://www.jmlr.org/papers/v22/20-1211.html) [arXiv](https://arxiv.org/abs/2010.05170) 
 
 
 
