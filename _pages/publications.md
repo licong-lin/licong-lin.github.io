@@ -97,7 +97,7 @@ What causes the test error? going beyond bias-variance via anova. **The Journal 
 ---
 
 
-### **AI safety**
+### **AI safety alignment**
 
 Chongyu Fan\*, Jiancheng Liu\*, **Licong Lin\***, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu.
 Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning. Preprint, 2024+. [arXiv](https://arxiv.org/abs/2410.07163)
