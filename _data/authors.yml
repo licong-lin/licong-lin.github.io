@@ -6,7 +6,7 @@ Name Name:
   location    : "Berkeley, CA"
   email       : "liconglin@berkeley.edu"
   avatar      : "liconglin_headshot.png"
-  cv          : "/files/liconglin_resume.pdf"
+  #cv          : "/files/liconglin_resume.pdf"
   github      : "licong-lin"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=b1y1LooAAAAJ"
 

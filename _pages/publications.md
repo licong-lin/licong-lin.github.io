@@ -70,7 +70,7 @@ p {
 
 
 
-### **Theory of AI and deep learning**
+### **Foundations of AI and deep learning**
 
 **Licong Lin**, Jingfeng Wu, Peter L. Bartlett.
 Improved Scaling Laws in Linear Regression via Data Reuse. Preprint, 2025+. [arXiv](https://arxiv.org/abs/2506.08415)
