@@ -73,10 +73,10 @@ p {
 ### **Foundations of AI and deep learning**
 
 **Licong Lin**, Jingfeng Wu, Peter L. Bartlett.
-Improved Scaling Laws in Linear Regression via Data Reuse. Preprint, 2025+. [arXiv](https://arxiv.org/abs/2506.08415)
+Improved Scaling Laws in Linear Regression via Data Reuse. **Advances in Neural Information Processing Systems (NeurIPS)**, 2025. [arXiv](https://arxiv.org/abs/2506.08415)
 
 **Licong Lin**, Song Mei.
-A Statistical Theory of Contrastive Learning via Approximate Sufficient Statistics. Preprint, 2025+. [arXiv](https://arxiv.org/abs/2503.17538)
+A Statistical Theory of Contrastive Learning via Approximate Sufficient Statistics. **Advances in Neural Information Processing Systems (NeurIPS)**, 2025. [arXiv](https://arxiv.org/abs/2503.17538)
 
 Kazusato Oko\*, **Licong Lin\***, Yuhang Cai\*, Song Mei\*.
 A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI. Preprint, 2025+. [arXiv](https://arxiv.org/abs/2501.04641)
@@ -100,7 +100,7 @@ What Causes the Test Error? Going Beyond Bias-Variance via ANOVA. **The Journal 
 ### **AI safety alignment**
 
 Chongyu Fan\*, Jiancheng Liu\*, **Licong Lin\***, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu.
-Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning. Preprint, 2024+. [arXiv](https://arxiv.org/abs/2410.07163)
+Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning. **Advances in Neural Information Processing Systems (NeurIPS)**, 2025. [arXiv](https://arxiv.org/abs/2410.07163)
 
 
 Ruiqi Zhang\*, **Licong Lin\***, Yu Bai, Song Mei.
