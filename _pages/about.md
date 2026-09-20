@@ -16,9 +16,10 @@ My research interests lie in statistics and machine learning. Specific topics in
 
 
 
+<!--I am currently a Member of Technical Staff at OpenAI.-->
 
 
-I am a fifth-year PhD student in Statistics at UC Berkeley, where I work on theoretical machine learning and statistics with **[Song Mei](https://www.stat.berkeley.edu/~songmei){:target="_blank"}** and **[Peter Bartlett](https://www.stat.berkeley.edu/~bartlett){:target="_blank"}**. Before Berkeley, I received a B.S. in Statistics from Peking University, where I work with **[Cheng Zhang](https://zcrabbit.github.io){:target="_blank"}**.
+I recently completed my Ph.D. in Statistics at UC Berkeley, where I work on theoretical machine learning and statistics with **[Song Mei](https://www.stat.berkeley.edu/~songmei){:target="_blank"}** and **[Peter Bartlett](https://www.stat.berkeley.edu/~bartlett){:target="_blank"}**. Before Berkeley, I received a B.S. in Statistics from Peking University, where I work with **[Cheng Zhang](https://zcrabbit.github.io){:target="_blank"}**.
 
 My work focuses on the **statistical foundations and algorithms for AI**. I use and extend tools from statistical learning theory, high-dimensional statistics, and optimization to study the statistical foundations of architectures, algorithms, and phenomena in modern AI (e.g.,  Transformers, in-context learning,  contrastive learning, scaling laws), and to develop mathematically motivated algorithms for AI alignment (e.g., LLM unlearning). 
 
